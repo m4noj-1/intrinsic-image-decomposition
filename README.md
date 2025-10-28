@@ -12,28 +12,29 @@ R(x,y) = Reflectance (intrinsic texture pattern) ← Goal
 L(x,y) = Illumination (smooth, slowly varying function)
 
 
-🎯 Features
+🎯 **Features**
 
-✅ Google Colab Ready – Zero setup, runs in browser
-✅ Grayscale & Color Image Support – Works with both image types
-✅ Custom Gaussian Filter – No built-in filters used (as per requirements)
-✅ Log-Domain Decomposition – Mathematically sound frequency separation
-✅ Multi-Channel Correction – Joint illumination estimation for color images
-✅ Real-time Visualization – Side-by-side comparison of results
-✅ Auto-Installation – Dependencies install automatically
+- ✅ **Google Colab Ready** – Zero setup, runs in browser.  
+- ✅ **Grayscale & Color Image Support** – Works with both image types.  
+- ✅ **Custom Gaussian Filter** – No built-in filters used (as per requirements).  
+- ✅ **Log-Domain Decomposition** – Mathematically sound frequency separation.  
+- ✅ **Multi-Channel Correction** – Joint illumination estimation for color images.  
+- ✅ **Real-time Visualization** – Side-by-side comparison of results.  
+- ✅ **Auto-Installation** – Dependencies install automatically.  
 
-🚀 Quick Start (Google Colab)
-Open Google Colab: colab.research.google.com
-Upload the notebook or copy-paste the code into a new notebook
-Upload your image:
+---
 
-Click the folder icon (📁) in the left sidebar
-Click upload button (📤)
-Upload your image and name it img.jpg
+🚀 **Quick Start (Google Colab)**  
 
+1. Open [Google Colab](https://colab.research.google.com).  
+2. Upload the notebook or copy-paste the code into a new notebook.  
+3. Upload your image:  
+   - Click the folder icon (📁) in the left sidebar  
+   - Click the upload button (📤)  
+   - Upload your image and name it `img.jpg`  
+4. Run all cells (**Runtime → Run all**)  
+5. Download results from the files panel.  
 
-Run all cells (Runtime → Run all)
-Download results from the files panel.
 
 📸 Example Results
 The algorithm successfully separates texture from lighting in various conditions:
