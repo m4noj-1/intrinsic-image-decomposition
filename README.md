@@ -27,7 +27,7 @@ L(x,y) = Illumination (smooth, slowly varying function)
 🚀 **Quick Start (Google Colab)**  
 
 1. Open [Google Colab](https://colab.research.google.com).  
-2. Upload the notebook or copy-paste the code into a new notebook.  
+2. copy-paste the above main.py code into a new notebook.  
 3. Upload your image:  
    - Click the folder icon (📁) in the left sidebar  
    - Click the upload button (📤)  
