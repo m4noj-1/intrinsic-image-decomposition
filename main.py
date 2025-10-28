@@ -2,7 +2,7 @@
 # 1. Upload a file named "img.jpg" to Colab (use the folder icon on left)
 # 2. Run this entire code
 # 3. Done!
-# ============================================================================
+# ===========================================================================
 
 # Install dependencies
 import subprocess
@@ -244,4 +244,5 @@ except Exception as e:
 # ============================================================================
 # Just replace 'img.jpg' with your filename like 'photo.jpg' or 'test.png'
 # in the line: img = Image.open('img.jpg')
+
 # ============================================================================
